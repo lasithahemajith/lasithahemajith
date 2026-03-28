@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Lasitha%20Ranasinghe&fontSize=38&fontColor=00E5FF&animation=fadeIn&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=70"/>
 </p>
 
-<h2 align="center">Full-Stack Software Engineer</h2>
+<!--h2 align="center">Full-Stack Software Engineer</h2-->
 
 <!-- BADGES -->
 <p align="center">
