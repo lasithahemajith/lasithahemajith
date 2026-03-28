@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=160&section=header&text=Lasitha%20Ranasinghe&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?    type=waving&color=0:141E30,100:243B55&height=160&section=header&text=Lasitha%20Ranasinghe&fontSize=35&fontColor=00E5FF&animation=fadeIn"/>
 </p>
 
 <h2 align="center">Full-Stack Software Engineer</h2>
