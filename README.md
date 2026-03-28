@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lasitha-ranasinghe&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lasithahemajith&theme=tokyo-night" />
 
 **🔹 Job App Platform**  
 Microservices + API Gateway + Docker-based deployment  
