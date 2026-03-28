@@ -6,9 +6,9 @@
 <h2 align="center">Full-Stack Software Engineer</h2>
 
 <!-- TYPING ANIMATION -->
-<p align="center">
+<!--p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;AWS+%7C+Microservices+%7C+Cloud;Clean+Architecture+Advocate;Building+Scalable+Systems" />
-</p>
+</p-->
 
 <!-- BADGE STRIP -->
 <p align="center">
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 - 💻 Full-Stack Software Engineer (5+ years)
 - 🎓 Master’s in Information Technology (MIT), New Zealand  
-- ☁️ Building cloud-native systems with AWS  
+- ☁️ Building cloud-native systems  
 - 🧠 Focused on clean architecture & scalable APIs  
 
 ---
@@ -55,29 +55,4 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lasithahemajith&theme=tokyo-night" />
-
-**🔹 Job App Platform**  
-Microservices + API Gateway + Docker-based deployment  
-
-**🔹 Practicum Tracking System**  
-Full-stack analytics system with RBAC & dashboards  
-
-**🔹 Code Guardian X**  
-AI-powered code review assistant  
-
-**🔹 Safe Hub**  
-Real-time disaster reporting platform  
-
----
-
-## 🎯 What I Build
-```diff
-+ Scalable backend systems
-+ Microservices architectures
-+ Secure REST APIs (JWT, RBAC)
-+ Cloud-native applications (AWS)
